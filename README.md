@@ -39,7 +39,7 @@ precision, F1-score oraz ROC-AUC.
 ```
 .
 ├── README.md
-└── projekt_cukrzyca.ipynb
+└── Przewidywanie_cukrzycy.ipynb
 ```
 
 Notebook zawiera:
